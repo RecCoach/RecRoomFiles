@@ -9,8 +9,6 @@ As of right now, currently we have:
 
 -Quest
 
--iOS 
-
 **Coming soon:**
 
 -PC 
