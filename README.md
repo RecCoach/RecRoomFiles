@@ -15,7 +15,7 @@ As of right now, currently we have:
 
 -Android
 
-**Maybe later:**
+**Will Be Uploaded If Possible**
 
 -Xbox
 
