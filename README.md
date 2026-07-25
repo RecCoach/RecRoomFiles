@@ -9,6 +9,8 @@ As of right now, currently we have:
 
 -Quest
 
+-Switch
+
 **Coming soon:**
 
 -PC 
