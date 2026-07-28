@@ -1,6 +1,7 @@
 # RecRoomFiles
 
 Join our Discord server to see our progress and new archives! Invite link [Here!](https://discord.com/invite/fMGdcGz2pc)
+This repository is a part of the Rec Archive. Rec Archive Repository [Here](https://github.com/RecCoach/RecArchive).
 
 This is an Archive of every RecRoom platform.
 As of right now, currently we have:
@@ -11,7 +12,7 @@ As of right now, currently we have:
 
 -Switch
 
-**Coming soon:**
+## Coming soon
 
 -PC 
 
@@ -19,7 +20,7 @@ As of right now, currently we have:
 
 -iOS
 
-**Will Be Uploaded If Possible**
+## Will Be Uploaded If Possible
 
 -Xbox
 
