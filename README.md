@@ -12,13 +12,13 @@ As of right now, currently we have:
 
 -Switch
 
+-iOS
+
 ## Coming soon
 
 -PC 
 
 -Android
-
--iOS
 
 ## Will Be Uploaded If Possible
 
