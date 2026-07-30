@@ -6,22 +6,22 @@ This repository is a part of the Rec Archive. Rec Archive Repository [Here](http
 This is an Archive of every RecRoom platform.
 As of right now, currently we have:
 
--Pico
+> Pico
 
--Quest
+> Quest
 
--Switch
+> Switch
 
--iOS
+> iOS
 
--Android
+> Android
 
 ## Coming soon
 
--PC 
+> PC 
 
 ## Will Be Uploaded If Possible
 
--Xbox
+> Xbox
 
--Playstation
+> Playstation
