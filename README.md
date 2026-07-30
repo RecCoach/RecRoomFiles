@@ -14,11 +14,11 @@ As of right now, currently we have:
 
 -iOS
 
+-Android
+
 ## Coming soon
 
 -PC 
-
--Android
 
 ## Will Be Uploaded If Possible
 
